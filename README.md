@@ -11,7 +11,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/manik_733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manik_733" height="30" width="40" /></a>
+  <a href="https://instagram.com/manik_733" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manik_733" height="30" width="40" />
+  </a>
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://ca.linkedin.com/in/manik-singh-62b236298/)![image](https://github.com/user-attachments/assets/b2dc04ec-d4ef-46bc-8781-bf89dc6fda9a)
+" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
