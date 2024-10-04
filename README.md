@@ -14,8 +14,7 @@
   <a href="https://instagram.com/manik_733" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manik_733" height="30" width="40" />
   </a>
-  <a href="https://ca.linkedin.com/in/manik-singh-62b236298/![image](https://github.com/user-attachments/assets/df40944d-fbb0-4b76-8c3a-651db4a34dec)
-" target="_blank">
+  <a href="https://ca.linkedin.com/in/manik-singh-62b236298/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
