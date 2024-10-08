@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manik Singh</h1>
 <h3 align="center">A disciplined guy with a love for programming</h3>
 
-- 🔭 I’m currently working on **Web Development and Java**
+- 🔭 I’m currently working on **Softwrae Development and CyberSecurity**
 
 - 🌱 I’m currently learning **Frameworks.**
 
