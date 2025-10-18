@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hey, I'm Manik Singh</h1>
 <h3 align="center">Cybersecurity • Cloud • Software Development</h3>
 
-Passionate about securing digital systems and building tools that make technology safer.  
-Exploring the intersection of **cyber defense, automation, and full-stack development.**  
-Experience at **AbCellera Biologics** (IT & Security) and **SAP iXp** (Technical Support).  
-Hands-on with **AWS**, **Intune**, **Jamf**, **Automox**, and **SentinelOne**.  
-Currently diving deeper into **offensive security**, **incident response**, and **DevSecOps.**
+- Passionate about securing digital systems and building tools that make technology safer.  
+- Exploring the intersection of **cyber defense, automation, and full-stack development.**  
+- Experience at **AbCellera Biologics** (IT & Security) and **SAP iXp** (Technical Support).  
+- Hands-on with **AWS**, **Intune**, **Jamf**, **Automox**, and **SentinelOne**.  
+- Currently diving deeper into **offensive security**, **incident response**, and **DevSecOps.**
 
 ---
 
