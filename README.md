@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Manik Singh
+# Hey, I'm Manik Singh
 
 ### Security • Cloud • Identity & Access Management
 
@@ -9,7 +9,7 @@ I've worked with **SAP** and **AbCellera Biologics**, where I've gained hands-on
 experience troubleshooting enterprise cloud systems, investigating authentication
 and access issues, managing identity platforms, and supporting security operations.
 
-## 🔐 What I work with
+## What I work with
 
 - **Identity & Access:** IAM, SSO, MFA, RBAC, Okta, SAML, OAuth 2.0, OIDC
 - **Cloud:** AWS, Azure, SAP BTP, AWS IAM
@@ -17,7 +17,7 @@ and access issues, managing identity platforms, and supporting security operatio
 - **Development:** Python, Java, TypeScript/JavaScript, SQL, Bash, PowerShell
 - **Infrastructure:** REST APIs, Git/GitHub, Linux, Intune, Jamf, Automox
 
-## 🛠️ What I'm building
+## What I'm building
 
 I'm particularly interested in building security tooling around:
 
@@ -27,13 +27,13 @@ I'm particularly interested in building security tooling around:
 - detection and monitoring
 - secure developer infrastructure
 
-## 🎓 Certifications
+## Certifications
 
 - **AWS Certified Solutions Architect – Associate**
 - **CompTIA Security+**
 - Meta Backend Development
 - Meta Programming in Python
 
-## 📫 Connect with me
+## Connect with me
 
-[LinkedIn](YOUR_LINKEDIN) • [Portfolio](https://maniksingh.fyi)
+[LinkedIn](https://ca.linkedin.com/in/manik-singh-62b236298) • [Portfolio](https://maniksingh.fyi)
